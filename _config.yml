@@ -13,9 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Csu Zipple's Blog
+title:  Zipple's Blog
+SEOTitle: Zzz的博客 | Zipple Blog | CSU
 author: zipple
-description: Minimal, responsive Jekyll theme for hackers.
+description: Packing up my mood, carrying my luggage, I am leaving
 #baseurl: "/whiteglass" # the subpath of your site, e.g. /blog
 baseurl:
 url: "https://csuzipple.github.io" # the base hostname & protocol for your site, e.g. http://example.com
