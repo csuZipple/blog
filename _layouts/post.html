@@ -23,3 +23,18 @@ layout: default
   {% endif %}
 
 </article>
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+    var gitment = new Gitment({
+        owner: 'csuZipple',
+        repo: 'https://github.com/csuZipple/blog.github.io',
+        oauth: {
+            client_id: 'a0523c54f66d78f42312',
+            client_secret: '40228e4633607df3af0b0abbc3ebb718ea5ccb7e',
+        },
+    });
+    gitment.render('gitmentContainer');
+</script>
