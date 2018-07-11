@@ -31,18 +31,21 @@ KT在线考试平台&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -	实现了数据缓存功能，完成了页面恢复效果•	
 
 ##教育经历
-中南大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp本科;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015 – 至今
 
+---
+中南大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015 – 至今
 -	本人就读于软件学院软件工程专业。自学了web前端技术，有过JavaEE前后端、安卓开发经验。学习过linux，数据结构，算法等课程。在校期间加权成绩在前25%，参与过大大小小的项目和比赛，接过外包开发，也自行做过一些软件作品，如电商网站，app等。
 
 ##比赛经历
 
+---
 -	第十一届英特尔软件创新创业大赛.                                                                                                           国家二等奖
 -	第八届全国大学生服务外包创新创业大赛                                                                                               国家二等奖
 -	第一届中南大学团体程序设计大赛                                                                                                             团体二等奖
 
 ##掌握技能
 
+---
 -	熟练使用html,css,js构建页面UI及特效
 -	熟练使用React,Router以及Redux
 -	能够使用外部库快速进行开发，拥有数据可视化开发经验
