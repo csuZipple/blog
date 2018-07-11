@@ -3,6 +3,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Resume"
+    url: /resume/
   - title: "Archives"
     url: /archives/
   - title: "GitHub"
