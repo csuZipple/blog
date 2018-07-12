@@ -4,8 +4,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Resume"
-    url: /resume/
+    url: https://blog.zippler.cn/resume.html
   - title: "Archives"
     url: /archives/
   - title: "GitHub"
-    url: https://github.com/yous/whiteglass
+    url: https://github.com/csuZipple
