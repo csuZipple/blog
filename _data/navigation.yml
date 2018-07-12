@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Resume"
-    url: https://blog.zippler.cn/resume.html
+    url: /resume/
   - title: "Archives"
     url: /archives/
   - title: "GitHub"

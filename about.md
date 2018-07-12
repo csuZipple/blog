@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "邹博"
 permalink: /about/
 ---
 
@@ -9,9 +9,9 @@ permalink: /about/
 ---
 - 男/20/18373151083
 - 本科/中南大学/软件工程
-- 技术博客：https://blog.csdn.net/csu_passer
+- 技术博客：[https://blog.csdn.net/csu_passer](https://blog.csdn.net/csu_passer)
 - Email：csu_zipple@qq.com 
-- GitHub : https://github.com/csuZipple
+- GitHub : [https://github.com/csuZipple](https://github.com/csuZipple)
 
 ## 项目经历
 远大云装配后台管理系统&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018.04-2018.05
