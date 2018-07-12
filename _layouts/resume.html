@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+  </header>
+
+  <div class="post-content">
+    {{ content  || split:'<!-- more -->' | first }}
+  </div>
+
+  {% if site.comments == true and page.comments != false %}
+    <div class="post-comments">
+      {% include custom_comments_provider.html %}
+    </div>
+  {% endif %}
+
+</article>
